@@ -1,2 +1,2 @@
-# cousera-test
-Coursera test repository
+# learn git
+first repository
